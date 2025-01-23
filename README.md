@@ -43,7 +43,7 @@ Example of First Two Rows:
 
 1110 1000 0000
 
-< br / >
+< br >< br / >
 
 1101 0000 0001
 

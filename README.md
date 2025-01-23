@@ -13,15 +13,15 @@ For example if you were to place tile 0010 in square 0001 0100 write: 0010 0001 
 
 ![Sprite-0001](https://github.com/user-attachments/assets/5bb1ff03-5e05-4578-8479-55867fc93118)
 
-the complete tileset
+the complete tileset^
 
 ![Binary_Grid_01](https://github.com/user-attachments/assets/450612da-841f-431e-82e7-59803420f7f8)
 
-grid example
+grid example^
 
 ![Binary_Tileset_01](https://github.com/user-attachments/assets/64a4f9dc-96c1-42b5-807b-15254197c70a)
 
-Tileset Key
+Tileset Key^
 
 ![Binary Output](https://github.com/user-attachments/assets/0e8a010a-419a-4a38-b07f-bba7f5f1f0ab)
 

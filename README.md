@@ -1,6 +1,10 @@
 # 5010 Binary Tileset
 
-HOW IT WORKS
+**HOW IT WORKS**
+Each tile is placed with a command comprising of three parts
+1. Tile Index Number
+2. X Coordinate Number
+3. Y Coordinate Number
 
 
 
